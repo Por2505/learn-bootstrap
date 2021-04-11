@@ -1,0 +1,12 @@
+#title{
+    background-color: #ff4c68 ;
+    
+}
+h1{
+    font-family: 'Roboto', sans-serif;
+    font-size: 3 rem;
+    line-height: 1.5;
+}
+.container-fluid{
+    padding: 3% 15%;
+}
