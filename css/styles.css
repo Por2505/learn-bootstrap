@@ -38,3 +38,28 @@ body {
     width: 60%;
     transform: rotate(25deg);
 }
+
+#features {
+    padding: 7% 15%;
+}
+.feature-box {
+    text-align: center;
+    padding: 5%;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+p{
+    color: #8f8f8f;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.icon {
+    color: #ef8172;
+    margin-bottom: 1rem;
+}
+.icon:hover {
+    color: #ff4c78;
+}
