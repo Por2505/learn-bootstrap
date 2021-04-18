@@ -71,7 +71,7 @@ p{
 }
 
 #testimonials {
-padding:7% 15%;
+
 background-color: #ef8172;
 text-align: center;
 color: white;
@@ -90,4 +90,8 @@ color: white;
 .press-logo {
     width:15%;
     margin: 20px 20px 50px;
+}
+
+.carousel-item {
+    padding:7% 15%;
 }
