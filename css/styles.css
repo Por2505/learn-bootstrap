@@ -35,12 +35,17 @@ body {
 }
 
 .title-image {
-    width: 60%;
+    width: 50%;
     transform: rotate(25deg);
+    position: absolute;
+    right: 30%;
 }
 
 #features {
     padding: 7% 15%;
+    background-color: #fff;
+    position: relative;
+    
 }
 .feature-box {
     text-align: center;
